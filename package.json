@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@nuxtjs/apollo": "^4.0.0-rc2",
+    "graphql": "^14.0.2",
     "graphql-tag": "^2.10.0",
     "nuxt": "^2.0.0",
     "vuetify": "^1.2.5"
